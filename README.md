@@ -1,18 +1,27 @@
 - 👋 Hola, soy @gilbertoesp
+- 
 - 👀 Mis intéreses
-1. Empleo Remoto
-2. Equipos de alto impacto
-3. Ser mejor programador que ayer
+1. Aplicar los fundamentos de Ciencias de la computación
+2. Reducir la desigualdad ecónomica de mi familia
+3. Cuidar mi cuerpo, mi mente y mi hogar.
 
 - 🌱🌱🌱🌱🌱
 
-Aspirante a embajador Youth 20 2023. Mi interés por el contexto geopolítico me impulsa a nunca parar de aprender.
+Conoce mi [portafolio](https://gilbertoesp.netlify.app/)
+Sigueme en [LinkedIn](https://linkedin.com/in/gilbertoesp), [X (twitter)](https://x.com/gilbertoesp_mx) o [Instagram](https://www.instagram.com/gilbertoesp.dev/)
 
-Conoce mi portafolio [gilbertoesp.github.io](https://gilbertoesp.github.io/)
+Hace diez años escribí mi primer Hello World. Durante una década exploré las distintas capas de las ciencias de la computación, aprendiendo haciendo y aprendiendo equivocándome.
 
-Mi perfil profesional es desarrollador frontend JS, buscando integrarme en un equipo dónde rete mis habilidades y me transforme, proyecto tras proyecto, en un colaborador capaz de responsabilidades galopantes.
+La respuesta que encontré no era algún stack de desarrollo. Era una forma de mirar.
 
-Mis aspiraciones son la defensa de la calidad de vida de los trabajadores con estímulo a participar en la económia formal para la financiación de infrestructura y servicios de primera necesidad con plataformas digitales en transparencia y acceso
+Python y SQL son los lenguajes en los que hoy pienso: pipelines, embeddings, agentes.
+TypeScript es el que elegí para crear en la web.
+
+Lo que une a los tres no son las herramientas en sí, sino las filosofías que las atraviesan: desarrollo orientado a pruebas y arquitecturas centradas en datos. 
+
+Soy un participante activo en el ecosistema de IA en México: comparto conocimiento, asisto a eventos y formo parte de comunidades que buscan que más personas y empresas den el paso hacia la integración tecnológica. 
+
+Mi horizonte está en el panorama nacional: asociaciones estratégicas y proyectos que atiendan los problemas reales de México de manera ética y significativa. 
 
 
 <!---
