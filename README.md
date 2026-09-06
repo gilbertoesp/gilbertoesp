@@ -56,11 +56,6 @@ México · Sonora
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=gilbertoesp&layout=compact&theme=tokyonight&title_color=FFF8E7&icon_color=FFB300&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gilbertoesp&bg_color=00000000&color=FFF8E7&line=FFB300&point=FFF8E7&area=true&hide_border=true" alt="activity graph" />
-</p>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/gilbertoesp">gilbertoesp</a></i></p>
